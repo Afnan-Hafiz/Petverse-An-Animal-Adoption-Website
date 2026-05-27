@@ -1,5 +1,3 @@
-# Petverse-An-Animal-Adoption-Website
-A CSE370 (Database) project 
 # 🐾 PetVerse — Animal Adoption Platform
 
 A full-stack, local-first web application designed to connect pets with loving homes and handle donations. Built natively without heavy frontend frameworks to maximize performance and portability. It is a group project for the CSE370(Database) course at BRAC University. The group consists of 3 members: i.Me(Afnan Mohammad Hafiz), ii.Eusha Kayenat, iii.Nafiz Shahriar Sami.
