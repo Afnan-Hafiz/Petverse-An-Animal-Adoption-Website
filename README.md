@@ -2,10 +2,10 @@
 A CSE370 (Database) project 
 # 🐾 PetVerse — Animal Adoption Platform
 
-A full-stack, local-first web application designed to connect pets with loving homes and handle donations. Built natively without heavy frontend frameworks to maximize performance and portability. It is a group project for CSE370(Database) course in BRAC University. The group consists of 3 members: i.Me(Nafiz Shahriar Sami), ii.Eusha Kayenat, iii.Afnan Hafiz.
+A full-stack, local-first web application designed to connect pets with loving homes and handle donations. Built natively without heavy frontend frameworks to maximize performance and portability. It is a group project for the CSE370(Database) course at BRAC University. The group consists of 3 members: i.Me(Afnan Mohammad Hafiz), ii.Eusha Kayenat, iii.Nafiz Shahriar Sami.
 
 ## Features
-- **Dynamic Post Creation**: Create adoption posts with dynamic animal categorization, or standard Buy/Sell offerings (e.g. Pet Toys, Medicine).
+- **Dynamic Post Creation**: Create adoption posts with dynamic animal categorization, or standard Buy/Sell offerings (e.g., Pet Toys, Medicine).
 - **Donation Management**: Admin-configured campaigns showing live progress bars and transaction tracking.
 - **Admin Dashboard**: Live statistic monitoring and moderation interface for all active posts.
 - **Pure Frontend Architecture**: Glassmorphism CSS design system built purely out-of-the-box leveraging vanilla JS for maximal responsiveness without heavy dependencies.
@@ -29,10 +29,10 @@ PORT=3000
 ```
 
 ### 3. Database Initialization & Seeding
-Start your **MySQL** server (e.g. from the XAMPP Control Panel).
+Start your **MySQL** server (e.g., from the XAMPP Control Panel).
 You must first load the baseline schema structure:
 1. Open terminal/cmd
-2. Connect to mysql and run the schema file:
+2. Connect to MySQL and run the schema file:
    `mysql -u root < backend/schema.sql` *(Adjust path to `mysql.exe` if not global)*
 3. Install dependencies:
    `npm install`
